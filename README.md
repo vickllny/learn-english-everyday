@@ -51,3 +51,16 @@
     tropical        adj     热带的
     aware           adj     意识到的；知道的
     squirrel        n-v     松鼠；存储
+
+### 20230524
+    news            n       新闻
+    soluble         adj     可溶解的
+    well-known      adj     有名的；出名的
+    transformation  n       转型；变化；改造
+    require         v       需要；要求
+    plate           n       盘子；碟子
+    yourself        pron    你自己
+    present         v-adj-n 呈现；带来；- 现在的；当下的； - 现在；目前
+    toward          prep    朝向；关于
+    stay            v       停留；呆在；保持
+    
