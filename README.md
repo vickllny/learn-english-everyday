@@ -63,4 +63,24 @@
     present         v-adj-n 呈现；带来；- 现在的；当下的； - 现在；目前
     toward          prep    朝向；关于
     stay            v       停留；呆在；保持
-    
+### 20230529
+    fisherman       n       渔夫
+    compound        n       化合物
+    county          n       郡；县
+    live            vt      生活；居住
+    connection      n       联系；关系
+    upward          adj     向上的
+    regarding       prep    关于
+    suggest         vt      建议；提议
+    why             adv     为什么
+    turbine         n       汽轮机；叶轮机  air/wind/steam/gas/water turbine
+    stem            n       茎；干
+    technician      n       技术员
+    cross           v       穿过
+    darling         n       亲爱的
+    germ            n       细菌
+    simply          adv     仅仅的；只不过；简单的
+    dear            adj     亲爱的
+    idea            n       想法；主意
+    army            n       陆军；军队
+    pluck           v       拔去
